@@ -7,6 +7,8 @@
 
 This is my first foundational cheminformatics project that predicts the aqueous solubility (LogS) of a molecule from its SMILES string using a machine learning model.
 
+![localhost](/pic/MPP.PNG)
+
 ---
 
 ## <a name="table-of-contents"></a>Table of Contents
