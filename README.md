@@ -146,7 +146,7 @@ This method runs the application inside an isolated Docker container, which is t
     ```bash
     docker build -t molecular-predictor .
     ```
-
+   ![dockerbuild](/pic/Docker.PNG)
 4.  **Run the Docker container:**
     This command starts a container from the image you just built.
     ```bash
