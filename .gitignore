@@ -20,9 +20,3 @@ __pycache__/
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
-
-# Add any large data, model, or notebook folders you don't need in the final image
-# For example:
-# data/
-# models/
-# notebooks/
